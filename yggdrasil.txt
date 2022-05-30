@@ -1,5 +1,5 @@
 # Some header
-# Last chainged at 30 May 2022 19:06 UTC
+# Last chainged at 30 May 2022 19:24 UTC
 tcp://136.244.90.22:80
 tcp://134.209.156.253:80
 tcp://ygg.loskiq.ru:17313
@@ -63,7 +63,7 @@ tcp://[2a01:230:4:27f::a]:11129
 tls://ygg-ukr.incognet.io:8884
 tcp://aaoth.xyz:7777
 tcp://sin.yuetau.net:6642
-tcp://185.217.199.95:80
+tcp://185.105.91.120:80
 tls://159.223.52.220:443
 tcp://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://ygg.cofob.ru:443
@@ -104,7 +104,7 @@ tls://[2a03:4000:6:2784::]:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd
 tls://45.9.191.162:50000?sni=ipv4.dronten.flevoland.netherlands.iasylum.net
 tcp://79.216.151.230:8842
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
-tcp://185.217.199.95:80
+tcp://185.105.91.120:80
 tls://aaoth.xyz:25565
 tls://65.21.117.164:8884?sni=ygg-fin.incognet.io
 tcp://[2001:41d0:601:1100::208a]:41000
@@ -134,7 +134,7 @@ tcp://s2.i2pd.xyz:39565
 tcp://01.sel.kor.ygg.yt:80
 tcp://5.45.109.122:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://95.179.155.103:25565
-tcp://185.105.91.120:80
+tcp://185.217.199.95:80
 tls://159.223.52.220:443?sni=01.sgp.sgp.ygg.yt
 tls://77.83.92.107:7040
 tls://67.196.189.45:49274?sni=lancis.iscute.moe
@@ -354,7 +354,7 @@ tcp://ams1.y.sota.sh:8080
 tcp://91.229.143.155:1337
 tls://[2a01:4f9:c010:664d::1]:61995
 tls://185.217.199.95:443?sni=toki.peer.cofob.ru
-tcp://185.105.91.120:80
+tcp://185.217.199.95:80
 tls://01.sel.kor.ygg.yt:443
 tls://[2a03:4000:40:ad:14c8:36ff:fefa:2ef2]:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a&sni=ygg1.mk16.de
 tcp://92.124.136.131:30111
@@ -366,7 +366,7 @@ tcp://yyz.yuetau.net:6642
 tls://176.9.161.20:443
 tcp://[2001:19f0:5001:3579::1]:7777
 tcp://ygg-ukr.incognet.io:8883
-tls://185.217.199.95:443?sni=ygg.cofob.ru
+tls://185.105.91.120:443?sni=ygg.cofob.ru
 tcp://[2a01:7e00::f03c:92ff:feb5:2baf]:80
 tcp://193.111.114.28:8080
 tcp://95.214.9.48:61933?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576
@@ -384,7 +384,7 @@ tcp://188.243.229.1:13337
 tcp://23.184.48.8:8883
 tls://sin.yuetau.net:6643
 tls://45.9.191.162:50000
-tls://185.105.91.120:443
+tls://185.217.199.95:443
 tls://78.27.153.163:179
 tls://198.98.55.23:13122
 tls://146.59.16.45:50000
@@ -477,7 +477,7 @@ tcp://167.179.68.241:80
 tcp://93.95.231.116:80
 tls://01.hrl.nld.ygg.yt:443
 tcp://[2605:6400:10:26b::1]:13121
-tls://185.217.199.95:443
+tls://185.105.91.120:443
 tcp://[2a02:4780:d:1a77::1]:41000
 tls://[2a04:52c0:108:c5c7::1]:25565?sni=aaoth.xyz
 tcp://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
@@ -568,7 +568,7 @@ tls://[2001:19f0:6c01:2a15:5400:3ff:feef:fbd8]:443?sni=01.ffm.deu.ygg.yt
 tcp://ipv6.warsaw.poland.yggdrasil.iasylum.net:41000
 tcp://longseason.1200bps.xyz:13121
 tls://[2400:6180:0:d0::f49:5001]:443?sni=01.sgp.sgp.ygg.yt
-tls://185.105.91.120:443?sni=ygg.cofob.ru
+tls://185.217.199.95:443?sni=ygg.cofob.ru
 tcp://[2605:6400:10:26b::1]:13121
 tcp://130.236.253.205:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tcp://[2001:19f0:6c01:2a15:5400:3ff:feef:fbd8]:80
