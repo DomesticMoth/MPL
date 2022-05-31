@@ -22,7 +22,6 @@
 # Last chainged at 31 May 2022 22:44 UTC
 tcp://136.244.90.22:80
 tcp://134.209.156.253:80
-tcp://ygg.loskiq.ru:17313
 tls://188.243.229.1:13338
 tcp://94.130.203.208:5999
 tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444
