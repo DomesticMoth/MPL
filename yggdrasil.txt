@@ -1,5 +1,5 @@
 # Some header
-# Last chainged at 31 May 2022 22:16 UTC
+# Last chainged at 31 May 2022 22:19 UTC
 tcp://136.244.90.22:80
 tcp://134.209.156.253:80
 tcp://ygg.loskiq.ru:17313
@@ -118,7 +118,7 @@ tls://188.225.9.167:18227
 tls://ygg2.mk16.de:1338?key=00000002e71368e36f2fae8fe437e09f935dcf69ee08dc00afe02ad7eae2f5f7
 tls://185.3.95.45:443?sni=01.lon.gbr.ygg.yt
 tls://ygg2.ezdomain.ru:11130
-tls://185.217.199.95:443?sni=toki.peer.cofob.ru
+tls://185.105.91.120:443?sni=toki.peer.cofob.ru
 tcp://95.179.155.103:7777
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 tcp://193.218.118.111:8883
@@ -183,7 +183,7 @@ tcp://[2001:470:1f13:e56::128]:39565
 tcp://193.33.240.94:17313
 tcp://x7dqdmjb7y5ykj4kgirwzj62wrrd3t5dv57oy7oyidnf7cpthd4k7ryd.onion:5222
 tcp://5.252.226.123:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
-tls://185.105.91.120:443
+tls://185.217.199.95:443
 tls://209.141.56.23:8884?sni=ygg-nv-us.incognet.io
 tls://[2001:470:1f13:e56::128]:39575
 tcp://y.zbin.eu:7743
@@ -230,7 +230,7 @@ tls://[2a0a:9302:1:3::1]:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278cea
 tcp://01.scv.usa.ygg.yt:80
 tcp://104.244.76.118:8883
 tls://ygg-nl.incognet.io:8884
-tls://185.217.199.95:443
+tls://185.105.91.120:443
 tcp://152.70.60.17:11129
 tls://81.7.10.222:1338?key=00000002e71368e36f2fae8fe437e09f935dcf69ee08dc00afe02ad7eae2f5f7
 tcp://5.45.65.149:7991
@@ -353,7 +353,7 @@ tls://[2001:41d0:601:1100::cf2]:11129
 tcp://ams1.y.sota.sh:8080
 tcp://91.229.143.155:1337
 tls://[2a01:4f9:c010:664d::1]:61995
-tls://185.105.91.120:443?sni=toki.peer.cofob.ru
+tls://185.217.199.95:443?sni=toki.peer.cofob.ru
 tcp://185.217.199.95:80
 tls://01.sel.kor.ygg.yt:443
 tls://[2a03:4000:40:ad:14c8:36ff:fefa:2ef2]:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a&sni=ygg1.mk16.de
